@@ -106,9 +106,9 @@ suspend fun getWeather(
 * Clean search bar at the top
 
 <p align="center">
-<img src="screenshots/1.jpeg"  />
-<img src="screenshots/2.jpeg" />
-<img src="screenshots/3.jpeg" />
+<img src="screenshots/1.jpeg" width="250"/>
+<img src="screenshots/2.jpeg" width="250"/>
+<img src="screenshots/3.jpeg" width="250"/>
 </p>
 
 ---
